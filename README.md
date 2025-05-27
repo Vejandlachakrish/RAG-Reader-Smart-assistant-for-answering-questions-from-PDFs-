@@ -44,28 +44,26 @@ pip install pyaudio
 ```
 ⚠️ Note: If you face issues installing PyAudio, especially on Windows, run:
 
-bash
-Copy
-Edit
+```
 pip install pipwin
 pipwin install pyaudio
+```
+
 ▶️ How to Run the Project
+
 Clone the Repository or download the project folder.
 
 Ensure you have your virtual environment activated (optional but recommended).
 
 Navigate to the project directory in your terminal:
 
-bash
-Copy
-Edit
+```
 cd rag-bot
 Start the Streamlit app:
-
-bash
-Copy
-Edit
+```
+```
 streamlit run chatbot_app.py
+```
 Once the app opens in your browser:
 
 Upload a PDF file
