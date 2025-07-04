@@ -59,7 +59,6 @@ Navigate to the project directory in your terminal:
 
 ```
 cd rag-bot
-Start the Streamlit app:
 ```
 ```
 streamlit run chatbot_app.py
