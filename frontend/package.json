@@ -1,0 +1,21 @@
+{
+  "name": "rag-auth-app",
+  "version": "1.0.0",
+  "description": "Login and Signup system using Node.js, Express, and MongoDB for a RAG-based project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Sriman",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "body-parser": "^1.20.3",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "mongoose": "^7.6.1",
+    "multer": "^2.0.0",
+    "nodemailer": "^7.0.3"
+  },
+  "keywords": []
+}

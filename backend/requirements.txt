@@ -1,0 +1,17 @@
+flask==3.0.0
+flask-cors==4.0.0
+requests==2.31.0
+beautifulsoup4==4.12.2
+langchain==0.1.0
+langchain-core==0.1.12
+langchain-google-genai==0.0.8
+langchain-community==0.0.13
+langchain-groq==0.1.9
+langgraph==0.0.40  # Updated
+numpy==1.24.3      # Added with specific version
+faiss-cpu==1.7.4
+pymupdf==1.23.14
+google-search-results==2.4.2
+google-api-python-client>=2.100.0
+python-dotenv==1.0.0
+werkzeug==3.0.1
