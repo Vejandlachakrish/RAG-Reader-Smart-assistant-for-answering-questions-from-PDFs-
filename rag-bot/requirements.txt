@@ -1,8 +1,0 @@
-# rag-bot/requirements.txt
-streamlit
-faiss-cpu
-sentence-transformers
-speechrecognition
-pyttsx3
-numpy
-pypdf>=3.0.0
